@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "506650756820",
+    "project_id": "reminder-notes-b6b05",
+    "storage_bucket": "reminder-notes-b6b05.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:506650756820:android:95943e529f56868fb75d41",
+        "android_client_info": {
+          "package_name": "com.practice.reminder_notes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5c2c7Yv00AAnUVR8M8XqWQSqqVxiR6Zk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
